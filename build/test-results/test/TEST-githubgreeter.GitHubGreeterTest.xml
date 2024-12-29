@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="githubgreeter.GitHubGreeterTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-25T20:05:31" hostname="SE5024s-MacBook-Pro.local" time="0.026">
+  <properties/>
+  <testcase name="testWelcome()" classname="githubgreeter.GitHubGreeterTest" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
